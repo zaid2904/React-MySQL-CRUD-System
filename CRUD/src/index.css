@@ -1,0 +1,16 @@
+* {
+  background-color: black;
+  color: white;
+  font-family:
+    "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+button {
+  background-color: white;
+  text-align: center;
+  color: black;
+  padding: 10px;
+  border-style: none;
+  border-radius: 12px;
+  margin: 10px;
+}
